@@ -1,5 +1,5 @@
 
-# reNamso v2.0 (October 2024)
+# reNamso v2.0
 
 ### Features
 
@@ -12,11 +12,6 @@
 - **Accepts VISA, MASTERCARD, JBC, DISCOVER and DINERS CLUB cards;** I updated the generator so that it actually generates and gives the correct format depending on the type of BIN entered.
 - **Multi-lang** The new CCGEN is available in English and Spanish. (Spanish on es.html)
 
-# Screenshots:
-### Dark Mode
-![Dark Mode](https://i.ibb.co/64ZSJxj/dm-rn.png)
-### Light Mode
-![Light Mode](https://i.ibb.co/7vjqXV1/lm-rn.png)
 
 ## Changelog
 ### Version 2.0 Update (09-OCT-2024):
